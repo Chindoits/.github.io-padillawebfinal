@@ -1,0 +1,76 @@
+html {
+    background-color: #006994
+}
+
+body {
+    width: 800px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+body {
+    text-align: center;
+    font-family: 'Rockwell Regular';
+}
+
+
+
+body {
+    border: 10px solid #FFFFFF;
+    background-color: burlywood
+}
+
+
+
+a {
+    color: #686143;
+    font-family: serif;
+    font-size: 16pt;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFFF;
+
+}
+
+h1 {
+    font-size: 40pt;
+    font-family: 'Diplomata SC', cursive;
+    color: #000;
+    border-top: 4px dotted #686143;
+    border-bottom: 4px dotted #686143;
+}
+
+h2 {
+    font-size: 36pt;
+    font-family: 'Rockwell Regular';
+    color: #FFFFFF;
+}
+
+
+h3 {
+    font-size: 30pt;
+    font-family: 'Rockwell Regular';
+    color: #ffffff
+}
+
+p {
+    font-family: 'Rockwell Regular';
+    font-size: 14pt;
+    line-height: 12 pt;
+}
+
+footer {
+    font-size: 14pt;
+    font-family: 'Rockwell Regular';
+    color: #FFFFFF
+}
+
+img {
+    border: medium solid #666;
+    box-shadow: 5px 5px 5px rgba (0, 0, 0, 3);
+}
